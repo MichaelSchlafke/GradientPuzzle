@@ -1,4 +1,4 @@
-**Privacy Policy**
+***Privacy Policy***
 
 Michael Schlafke built the Gradient Puzzle app as a Free app. This SERVICE is provided by Michael Schlafke at no cost and is intended for use as is.
 
